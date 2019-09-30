@@ -6,3 +6,5 @@ Kamis : GNS 3
 Jumat : Trigger DB
 Sabtu: Grandis Tugas Kelompok UI
 Minggu: Triliana Tugas Kelompok Basis Data Lanjut
+
+INI FILE NYA BRANCH
