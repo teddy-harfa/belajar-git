@@ -1,5 +1,8 @@
-Senin : GIT
+Senin : GIT (Branch, Merge)
+Senin : Desain Antarmuka (Wireframe)
 Selasa : SIM (Sistem Informasi Manajemen)
 
 Kamis : GNS 3
 Jumat : Trigger DB
+Sabtu: Grandis Tugas Kelompok UI
+Minggu: Triliana Tugas Kelompok Basis Data Lanjut
